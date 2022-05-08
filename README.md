@@ -1,31 +1,32 @@
 # GOF-Patterns-In-Swift
-This repo contains examples of software design patterns from famous book [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
+
+This repo contain the GOF patter in applicatives in swift 
 
 ### Creational
-  - Builder
-  - Abstract factory
-  - Factory method
-  - Prototype
-  - Singleton
+  - [x] Builder
+  - [x] Abstract factory
+  - [x] Factory method
+  - [x] Prototype
+  - [x] Singleton
 
 ### Structural 
-  - Adapter 
-  - Bridge
-  - Composite
-  - Decorator
-  - Facade
-  - Flyweight
-  - Proxy
+  - [x] Adapter 
+  - [x] Bridge
+  - [x] Composite
+  - [x] Decorator
+  - [x] Facade
+  - [x] Flyweight
+  - [x] Proxy
 
 ### Behavioral
-  - Command
-  - Chain of responsibility
-  - Interpreter
-  - Iterator
-  - Mediator
-  - Memento
-  - Observer
-  - State
-  - Strategy
-  - Template method
-  - Visitor
+  - [x] Command
+  - [x] Chain of responsibility
+  - [x] Interpreter
+  - [x] Iterator
+  - [x] Mediator
+  - [x] Memento
+  - [x] Observer
+  - [x] State
+  - [x] Strategy
+  - [x] Template method
+  - [x] Visitor
